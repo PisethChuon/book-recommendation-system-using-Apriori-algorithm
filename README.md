@@ -1,0 +1,1 @@
+# Using Synthetic data generation involed the use of computational method and simulation to create data
